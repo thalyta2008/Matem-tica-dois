@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecionar</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 50px; background: #f0f0f0; }
+    h1 { color: #333; font-size: 36px; }
+    button { background: #E60023; color: #fff; padding: 15px 30px; border: none; border-radius: 5px; cursor: pointer; font-size: 18px; transition: 0.3s; }
+    button:hover { background: #D1001C; }
+  </style>
+</head>
+<body>
+  <h1>aperte</h1>
+  <button onclick="location.href='https://br.pinterest.com/'">Ir para o Pinterest</button>
+</body>
+</html>
